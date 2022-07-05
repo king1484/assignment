@@ -2,6 +2,10 @@
 
 This is a flutter app developed for intern task in Articuno Coding LLP.
 
+# Screenshot
+
+![](https://github.com/king1484/assignment/blob/main/screenshot.png)
+
 # Steps to run
 
 Clone this repository 

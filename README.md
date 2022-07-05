@@ -4,7 +4,7 @@ This is a flutter app developed for intern task in Articuno Coding LLP.
 
 # Screenshot
 
-![](https://github.com/king1484/assignment/blob/main/screenshot.png)
+<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
 
 # Steps to run
 
